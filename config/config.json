@@ -1,0 +1,23 @@
+{
+  "local": {
+    "username": "root",
+    "password": "123123123m@",
+    "database": "omwojw5",
+    "host": "ec2-13-125-224-201.ap-northeast-2.compute.amazonaws.com",
+    "dialect": "mysql"
+  }, 
+  "dev": {
+    "username": "omwojw5",
+    "password": "gPtjd11!",
+    "database": "omwojw5",
+    "host": "nodejs-007.cafe24.com",
+    "dialect": "mysql"
+  },
+  "prd": {
+    "username": "omwojw5",
+    "password": "gPtjd11!",
+    "database": "omwojw5",
+    "host": "10.0.0.1",
+    "dialect": "mysql"
+  }
+}
